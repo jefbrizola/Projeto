@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/10 20:34:18.000.936,=C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/10 20:34:34.000.293,C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/06/10 20:34:34.000.293,C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projeto\Unit1.pas</Transaction>
+    <Transaction>2021/06/10 20:34:39.000.337,C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Projeto\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2021/06/10 21:35:37.000.152,=C:\Projeto\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 21:36:11.000.821,C:\Projeto\ufTarefa1.pas=C:\Projeto\Unit2.pas</Transaction>
+    <Transaction>2021/06/10 21:36:11.000.821,C:\Projeto\ufTarefa1.dfm=C:\Projeto\Unit2.dfm</Transaction>
+    <Transaction>2021/06/16 11:59:42.000.011,=C:\Projeto\Unit2.pas</Transaction>
+    <Transaction>2021/06/16 11:59:56.000.901,C:\Projeto\ufTarefa2.pas=C:\Projeto\Unit2.pas</Transaction>
+    <Transaction>2021/06/16 11:59:56.000.901,C:\Projeto\ufTarefa2.dfm=C:\Projeto\Unit2.dfm</Transaction>
+    <Transaction>2021/06/16 16:24:39.000.047,=C:\Projeto\Unit2.pas</Transaction>
+    <Transaction>2021/06/16 16:24:49.000.092,C:\Projeto\Unit2.dfm=C:\Projeto\ufTarefa3.dfm</Transaction>
+    <Transaction>2021/06/16 16:24:49.000.092,C:\Projeto\Unit2.pas=C:\Projeto\ufTarefa3.pas</Transaction>
+    <Transaction>2021/06/22 19:31:54.000.027,=C:\Users\Jeferson Brizola\Desktop\Projeto\Unit2.pas</Transaction>
+    <Transaction>2021/06/22 19:32:04.000.665,C:\Users\Jeferson Brizola\Desktop\Projeto\Unit2.pas=C:\Users\Jeferson Brizola\Desktop\Projeto\Recurso.pas</Transaction>
+    <Transaction>2021/06/22 23:15:27.425,C:\Git\Projeto\ufrmPrincipal.dfm=C:\Git\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/06/22 23:15:27.425,C:\Git\Projeto\ufrmPrincipal.pas=C:\Git\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/10 20:42:01.000.575,=rtl.dcp</Transaction>
+    <Transaction>2021/06/10 20:53:27.000.488,=rtl.dcp</Transaction>
+    <Transaction>2021/06/10 20:59:39.000.265,=rtl.dcp</Transaction>
+    <Transaction>2021/06/10 20:59:58.000.016,=rtl.dcp</Transaction>
+    <Transaction>2021/06/10 21:02:21.000.597,=rtl.dcp</Transaction>
+    <Transaction>2021/06/10 21:04:07.360,=rtl.dcp</Transaction>
+    <Transaction>2021/06/10 21:04:32.961,C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\spComponentes.dpk=C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/06/10 21:05:12.073,C:\Projeto\spComponentes.dpk=C:\Users\jeferson.apolonio\Documents\Embarcadero\Studio\Projects\spComponentes.dpk</Transaction>
+    <Transaction>2021/06/10 21:23:31.466,=C:\Projeto\FDQuery1.pas</Transaction>
+    <Transaction>2021/06/10 21:23:46.902,=dbrtl.dcp</Transaction>
+    <Transaction>2021/06/10 21:23:46.914,=FireDACCommon.dcp</Transaction>
+    <Transaction>2021/06/10 21:23:46.926,=FireDAC.dcp</Transaction>
+    <Transaction>2021/06/10 21:23:46.937,=FireDACCommonDriver.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
